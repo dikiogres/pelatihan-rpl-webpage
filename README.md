@@ -1,1 +1,1 @@
-# go-restaurant-backend
+# rst-backend
